@@ -23,3 +23,34 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1603131716864	geckodriver	INFO	Listening on 127.0.0.1:57233
+1603131719872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileb5x27k"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603131727267	Marionette	INFO	Listening on port 57241
+1603131727773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603131749666	Marionette	INFO	Stopped listening on port 57241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

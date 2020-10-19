@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.firefox.options import Options
 import json
 
-db_conn = mysql.connector.connect(host="localhost", user="root", passwd="root", database="")
+db_conn = mysql.connector.connect(host="localhost", port="3306", user="root", passwd="root", database="snkrs")
 #1 preparar o conteudo html a partir da url
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
 url = 'https://www.nike.com.br/Snkrs#calendario'
@@ -24,18 +24,19 @@ time.sleep(10)
 
 #time.sleep(10)
 #element = driver.find_element_by_xpath("//div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']//div//div[@class='produto__imagem']//div[@class='produto__detalhe']//h2[@class='produto__detalhe-titulo']")
-element = driver.find_element_by_xpath("//div[@class='snkr-release__bottom']//a[@class='snkr-release__name']")
+#element = driver.find_element_by_xpath("//div[@class='snkr-release__bottom']//a[@class='snkr-release__name']")
+element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
 html_content = element.get_attribute("outerHTML")
 
-#print(html_content)
+print(html_content)
 
 #2 parsear counteudo Html - BeautifulSoup
 
-soup = BeautifulSoup(html_content, 'lxml')
+#soup = BeautifulSoup(html_content, 'lxml')
 
-soup.findAll('a')
-print(''.join(soup.findAll(text = True))) 
-table = soup.find(name='div')
+#soup.findAll('a')
+#print(''.join(soup.findAll(text = True))) 
+#table = soup.find(name='div')
 
 #3 estruturar o conteudo em um Data Frame Pandas
 #df_full = pd.read_html(str(table))[0].head(10)
