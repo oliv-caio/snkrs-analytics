@@ -1,2 +1,2 @@
 # snkrs-analytics
-das
+projeto de analise dos sneakers
