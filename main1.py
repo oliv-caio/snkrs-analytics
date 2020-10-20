@@ -9,6 +9,7 @@ from selenium.webdriver.firefox.options import Options
 import json
 
 db_conn = mysql.connector.connect(host="localhost", port="3306", user="root", passwd="root", database="snkrs")
+cursor = db_conn.cursor()
 
 #1 preparar o conteudo html a partir da url
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
@@ -20,28 +21,46 @@ driver = webdriver.Firefox(firefox_binary=binary, executable_path='C:\\geckodriv
 
 driver.get(url)
 
-time.sleep(10)
+time.sleep(20)
 #driver.find_element_by_xpath("//div[@class='nba-stat-table__overflow']//table//thead//tr//th[@data-field='PTS']").click()
 
 #time.sleep(10)
 #element = driver.find_element_by_xpath("//div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']//div//div[@class='produto__imagem']//div[@class='produto__detalhe']//h2[@class='produto__detalhe-titulo']")
-element = driver.find_element_by_xpath("//div[@class='snkr-release__bottom']//a[@class='snkr-release__name']")
-#element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
+#element = driver.find_element_by_xpath("//div[@class='snkr-release__bottom']//a[@class='snkr-release__name']")
+element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
 html_content = element.get_attribute("outerHTML")
 
-print(html_content)
+#print(html_content)
 
 #2 parsear counteudo Html - BeautifulSoup
 
 soup = BeautifulSoup(html_content, 'lxml')
+#print(soup.find_all('a', href=True))
+a_href = soup.find_all('a', href=True)
 
-soup.findAll('a')
-print(''.join(soup.findAll(text = True))) 
-table = soup.find(name='a')
+hreflist = []
+
+for a in a_href:
+    href = str(a['href'])
+    hreflist.append(href)
+    #hreflist.append(href)
+    #cursor.execute("""insert into site_refer (refer_href), values(%s)""", (href))
+    #db_conn.commit()
+    print(href)
+
+    
+#df = pd.DataFrame(a_href)
+#print(df)
+#print(df_full)
+
+
+#soup.findAll('href=')
+#print(''.join(soup.findAll(href = True))) 
+#div = soup.find(name='div')
 
 #3 estruturar o conteudo em um Data Frame Pandas
-#df_full = pd.read_html(str(table))[0].head(10)
-#print(dr)
+#df_full = pd.read_html(str(div))[0].head(10)
+#print(df_full)
 #df = df_full[['Unnamed: 0', 'PLAYER', 'TEAM', 'PTS' ]]
 #df.columns = ['pos', 'player' , 'team', 'total']
 #print(df_full)
@@ -60,6 +79,8 @@ table = soup.find(name='a')
 #fp.write(js)
 #fp.close()
 
+
+dref
 
 #time.sleep(10)
 

@@ -6,13 +6,12 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 CREATE TABLE IF NOT EXISTS site_refer (
   `idsite_refer` INT NOT NULL AUTO_INCREMENT,
   `refer_href` TEXT NOT NULL,
-  `refer_preco` DOUBLE NOT NULL,
-  `refer_nome_modelo` TEXT NOT NULL,
-  `refer_modelo` TEXT NOT NULL,
+  `refer_preco` DOUBLE ,
+  `refer_nome_modelo` TEXT ,
+  `refer_modelo` TEXT ,
   PRIMARY KEY (`idsite_refer`),
   CONSTRAINT fk_site_refer_modelo_id FOREIGN KEY (idsite_refer) REFERENCES Modelo (idModelo) ON DELETE CASCADE ON UPDATE NO ACTION
   )
-
 
 
 -- -----------------------------------------------------
