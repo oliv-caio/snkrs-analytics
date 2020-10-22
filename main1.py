@@ -80,7 +80,7 @@ for a in a_href:
 #fp.close()
 
 
-dref
+
 
 #time.sleep(10)
 

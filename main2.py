@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.firefox.options import Options
 import json
+import datetime
 
 db_conn = mysql.connector.connect(host="localhost", port="3306", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
@@ -44,13 +45,29 @@ for i in range(len(hreflist)):
     if hreflist[i-1] != hreflist[i] :
         url = hreflist[i-1]
         #print(url)
+        
         driver.get(url)
-        time.sleep(15)
+        
+        time.sleep(3)
         element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[@class='nome-preco-produto']")
         html_content = element.get_attribute("outerHTML")
-        soup = BeautifulSoup(html_content, 'lxml')
+        soup = BeautifulSoup(html_content, 'lxml') 
         modelo = soup.find_all('span')
+        cw = soup.find_all('a')
+        
         for node in modelo:
+            #inserir no banco
+            print (''.join(node.findAll(text=True)))
+        for node in cw:
+            #inserir no banco
+            print (' '.join(node.findAll(text=True)))
+        
+        element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[2]/span/span[@class='js-preco']")
+        html_content = element.get_attribute("outerHTML")
+        soup = BeautifulSoup(html_content, 'lxml') 
+        preco = soup.find_all('span')
+        
+        for node in preco:
             print (''.join(node.findAll(text=True)))
 
 driver.quit()

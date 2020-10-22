@@ -1198,3 +1198,1501 @@ JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5:
 JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
 JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
 JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603236340621	geckodriver	INFO	Listening on 127.0.0.1:55753
+1603236343649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofilecISQXe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603236346832	Marionette	INFO	Listening on port 55761
+1603236347296	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603240471705	geckodriver	INFO	Listening on 127.0.0.1:56889
+1603240474722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileQ9gRzx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603240480453	Marionette	INFO	Listening on port 56897
+1603240480487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603240623788	Marionette	INFO	Stopped listening on port 56897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603240644281	geckodriver	INFO	Listening on 127.0.0.1:57145
+1603240647290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileWEQtnL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603240650838	Marionette	INFO	Listening on port 57153
+1603240650937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603240750734	Marionette	INFO	Stopped listening on port 57153
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+[Child 18412, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241202824	geckodriver	INFO	Listening on 127.0.0.1:57675
+1603241205818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile06ubo9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241225577	geckodriver	INFO	Listening on 127.0.0.1:57710
+1603241228613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileXtp6Sf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603241236426	Marionette	INFO	Listening on port 57720
+1603241236696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603241341413	Marionette	INFO	Stopped listening on port 57720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603243057875	geckodriver	INFO	Listening on 127.0.0.1:58411
+1603243060887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofilewo7e8n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603243069066	Marionette	INFO	Listening on port 58419
+1603243069295	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+1603304638516	geckodriver	INFO	Listening on 127.0.0.1:51392
+1603304641524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileEL7WvM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603304646535	Marionette	INFO	Listening on port 51400
+1603304646800	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603304771419	Marionette	INFO	Stopped listening on port 51400
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+[Parent 3208, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603305591648	geckodriver	INFO	Listening on 127.0.0.1:51924
+1603305594650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileTbHwTb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603305599396	Marionette	INFO	Listening on port 51932
+1603305599914	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/T9w1ROdplctW2nVKvNJYXH8o/recaptcha__pt_br.js, line 352: NS_ERROR_NOT_INITIALIZED: 
+[Child 15508, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 15508, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603305679527	Marionette	INFO	Stopped listening on port 51932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603325452635	geckodriver	INFO	Listening on 127.0.0.1:51337
+1603325455653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile3sxqdq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603325459787	Marionette	INFO	Listening on port 51346
+1603325459917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+1603325513269	Marionette	INFO	Stopped listening on port 51346
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603325536368	geckodriver	INFO	Listening on 127.0.0.1:51531
+1603325539371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofiletmKcph"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603325545222	Marionette	INFO	Listening on port 51539
+1603325545654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603325601205	Marionette	INFO	Stopped listening on port 51539
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603328220034	geckodriver	INFO	Listening on 127.0.0.1:52190
+1603328223045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileGuOQyO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603328227606	Marionette	INFO	Listening on port 52200
+1603328227819	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603328282797	Marionette	INFO	Stopped listening on port 52200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603328440738	geckodriver	INFO	Listening on 127.0.0.1:52439
+1603328443767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileSawO8e"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603328449090	Marionette	INFO	Listening on port 52450
+1603328449532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603328528584	Marionette	INFO	Stopped listening on port 52450
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603329191089	geckodriver	INFO	Listening on 127.0.0.1:52793
+1603329194109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileBQ6i35"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603329197677	Marionette	INFO	Listening on port 52801
+1603329197748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603329707911	geckodriver	INFO	Listening on 127.0.0.1:53082
+1603329710932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileHLz34J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603329717310	Marionette	INFO	Listening on port 53090
+1603329717807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603329853813	Marionette	INFO	Stopped listening on port 53090
+1603330168777	geckodriver	INFO	Listening on 127.0.0.1:53403
+1603330171797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileFHnIoQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603330177196	Marionette	INFO	Listening on port 53411
+1603330177560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603330234174	Marionette	INFO	Stopped listening on port 53411
+1603330507359	geckodriver	INFO	Listening on 127.0.0.1:53765
+1603330510337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile3CHnhr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603330516481	Marionette	INFO	Listening on port 53774
+1603330516682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+1603330639282	Marionette	INFO	Stopped listening on port 53774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603330851515	geckodriver	INFO	Listening on 127.0.0.1:54034
+1603330854582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile05PfYq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603330863611	Marionette	INFO	Listening on port 54043
+1603330864097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/1603331035109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\JavaScript error: https://ssl.lomadeeCan't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHRJavaJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSJavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceE1603331040469	Marionette	INFO	Listening on port 54264
+1603331040876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/srJavaScript error: https://ssl.lomadee.com/resources/scripts/src/5JavaScript error: https://ssl.lomadee.com/resources/scripts/srJavaScript error: https://images.lojanike.com.br/site/ni/dist/js/JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer isJavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603331153003	Marionette	INFO	Stopped listening on port 54264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603331151595	Marionette	INFO	Stopped listening on port 54043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603331158828	geckodriver	INFO	Listening on 127.0.0.1:54475
+1603331161841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile6O9TMk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603331168433	Marionette	INFO	Listening on port 54483
+1603331168797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603331231458	Marionette	INFO	Stopped listening on port 54483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603331236763	geckodriver	INFO	Listening on 127.0.0.1:54683
+1603331239794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile5ME1tM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603331246905	Marionette	INFO	Listening on port 54692
+1603331247160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603331282398	Marionette	INFO	Stopped listening on port 54692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603332929764	geckodriver	INFO	Listening on 127.0.0.1:55382
+1603332932776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofile37XZJU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603332937596	Marionette	INFO	Listening on port 55390
+1603332938054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=4c6717b2cb3c60827a008778de5a4051&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+JavaScript error: https://ssl.lomadee.com/resources/scripts/src/5901.js, line 5: ReferenceError: nikeDataLayer is not defined
+1603333031931	Marionette	INFO	Stopped listening on port 55390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
