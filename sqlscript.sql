@@ -1,18 +1,20 @@
+CREATE DATABASE IF NOT EXISTS snkrs;
+USE snkrs;
+
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
 
-
 CREATE TABLE IF NOT EXISTS site_refer (
   `idsite_refer` INT NOT NULL AUTO_INCREMENT,
   `refer_href` TEXT NOT NULL,
+  refer_data TEXT NOT NULL,
   `refer_preco` DOUBLE ,
-  `refer_nome_modelo` TEXT ,
-  `refer_modelo` TEXT ,
+  `refer_cw` TEXT,
+  `refer_modelo` TEXT,
   PRIMARY KEY (`idsite_refer`),
   CONSTRAINT fk_site_refer_modelo_id FOREIGN KEY (idsite_refer) REFERENCES Modelo (idModelo) ON DELETE CASCADE ON UPDATE NO ACTION
   )
-
 
 -- -----------------------------------------------------
 -- Table `mydb`.`site_reven`
@@ -21,8 +23,9 @@ CREATE TABLE IF NOT EXISTS site_reven (
   `idsite_reven` INT NOT NULL AUTO_INCREMENT,
   `reven_html` TEXT NOT NULL,
   `reven_preco` DOUBLE NOT NULL,
-  `reven_nome_modelo` TEXT NOT NULL,
+  `reven_cw` TEXT NOT NULL,
   `reven_modelo` VARCHAR(45) NOT NULL,
+  reven_data TEXT,
   PRIMARY KEY (`idsite_reven`),
   CONSTRAINT fk_site_reven_modelo_id FOREIGN KEY (idsite_reven) REFERENCES Modelo (idModelo) ON DELETE CASCADE ON UPDATE NO ACTION
 );
