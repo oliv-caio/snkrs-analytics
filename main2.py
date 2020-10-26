@@ -28,8 +28,6 @@ time.sleep(15)
 
 element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
 html_content = element.get_attribute("outerHTML")
-
-
 soup = BeautifulSoup(html_content, 'lxml')
 
 a_href = soup.find_all('a', href=True)
@@ -39,15 +37,12 @@ hreflist = []
 for a in a_href:
     href = str(a['href'])
     hreflist.append(href)
-    #print(href)
 
 for i in range(len(hreflist)):
     if hreflist[i-1] != hreflist[i] :
         url = hreflist[i-1]
         #print(url)
-        
         driver.get(url)
-        
         time.sleep(3)
         element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[@class='nome-preco-produto']")
         html_content = element.get_attribute("outerHTML")
@@ -58,17 +53,27 @@ for i in range(len(hreflist)):
         for node in modelo:
             #inserir no banco
             print (''.join(node.findAll(text=True)))
+            
         for node in cw:
             #inserir no banco
             print (' '.join(node.findAll(text=True)))
-        
-        element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[2]/span/span[@class='js-preco']")
+
+        element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[2]/span/span/span[@class='js-valor-por']")
         html_content = element.get_attribute("outerHTML")
         soup = BeautifulSoup(html_content, 'lxml') 
         preco = soup.find_all('span')
-        
+
         for node in preco:
             print (''.join(node.findAll(text=True)))
+
+        element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/h3")
+        html_content = element.get_attribute("outerHTML")
+        soup = BeautifulSoup(html_content, 'lxml') 
+        data = soup.find_all('h3')
+
+        for node in data:
+            print (''.join(node.findAll(text=True)))
+        
 
 driver.quit()
 
