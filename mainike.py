@@ -41,6 +41,7 @@ for a in a_href:
 for i in range(len(hreflist)):
     if hreflist[i-1] != hreflist[i] :
         url = hreflist[i-1]
+        datetimedb = datetime.datetime.now()
         print(url)
         driver.get(url)
         time.sleep(3)
@@ -53,21 +54,21 @@ for i in range(len(hreflist)):
         for node in modelo:
             #inserir no banco
             print (''.join(node.findAll(text=True)))
-            modelodb = node.findAll(text=True)
+            modelodb = str(node.findAll(text=True))
             
         for node in cw:
             #inserir no banco
             print (' '.join(node.findAll(text=True)))
-            cwdb = node.findAll(text=True)
+            cwdb = str(node.findAll(text=True))
 
         element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[2]/span/span/span[@class='js-valor-por']")
         html_content = element.get_attribute("outerHTML")
         soup = BeautifulSoup(html_content, 'lxml') 
         preco = soup.find_all('span')
-
+        
         for node in preco:
             print (''.join(node.findAll(text=True)))
-            precodb = node.findAll(text=True)
+            precodb = str(node.findAll(text=True))
 
         element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/h3")
         html_content = element.get_attribute("outerHTML")
@@ -76,11 +77,15 @@ for i in range(len(hreflist)):
 
         for node in data:
             print (''.join(node.findAll(text=True)))
-            datadb = node.findAll(text=True)
-        sql = """insert into site_refer (refer_href, refer_data, refer_preco, refer_cw, refer_modelo) values(%s, %s, %s, %s, %s)""" % ("", datadb, precodb, cwdb, modelodb)
-        #val = (url, datadb, precodb, cwdb, modelodb)
-        cursor.execute(sql)
+            datadb = str(node.findAll(text=True))
+        sql = """insert into site_refer (refer_href, refer_data, refer_preco, refer_cw, refer_modelo) values(%s, %s, %s, %s, %s)""" 
+        val = (str(url), datadb, precodb, cwdb, modelodb)
+        cursor.execute(sql, val)
+        sql = """insert into Logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 1)"""
+        val = (str(url), datetimedb)
+        cursor.execute(sql, val)
         db_conn.commit()
+
 
 driver.quit()
 db_conn.close()
