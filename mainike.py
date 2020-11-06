@@ -24,8 +24,6 @@ driver.get(url)
 
 time.sleep(15)
 
-
-
 element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
 html_content = element.get_attribute("outerHTML")
 soup = BeautifulSoup(html_content, 'lxml')
@@ -52,12 +50,10 @@ for i in range(len(hreflist)):
         cw = soup.find_all('a')
         
         for node in modelo:
-            #inserir no banco
             print (''.join(node.findAll(text=True)))
             modelodb = str(node.findAll(text=True))
             
         for node in cw:
-            #inserir no banco
             print (' '.join(node.findAll(text=True)))
             cwdb = str(node.findAll(text=True))
 
@@ -78,6 +74,7 @@ for i in range(len(hreflist)):
         for node in data:
             print (''.join(node.findAll(text=True)))
             datadb = str(node.findAll(text=True))
+
         sql = """insert into site_refer (refer_href, refer_data, refer_preco, refer_cw, refer_modelo) values(%s, %s, %s, %s, %s)""" 
         val = (str(url), datadb, precodb, cwdb, modelodb)
         cursor.execute(sql, val)
