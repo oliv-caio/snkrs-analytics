@@ -6175,3 +6175,58 @@ JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604712058101	geckodriver	INFO	Listening on 127.0.0.1:52279
+1604712061119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofileHOrNV9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604712069469	Marionette	INFO	Listening on port 52288
+1604712069633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nike.com.br/Snkrs#calendario, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/Dunk-High/153-169-211-284427, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+1604712102452	Marionette	INFO	Stopped listening on port 52288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604712134354	geckodriver	INFO	Listening on 127.0.0.1:52477
+1604712137376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\olivc\\AppData\\Local\\Temp\\rust_mozprofilevNl4ra"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604712142974	Marionette	INFO	Listening on port 52485
+1604712143188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nike.com.br/Snkrs#calendario, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: Error: only one instance of babel-polyfill is allowed
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/Dunk-High/153-169-211-284427, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/SB-Dunk-High-Pro/153-169-211-277276, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/LeBron-18/153-169-211-280042, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/Air-Jordan-1-Zoom-Feminino/1-16-210-273226, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/Air-Max-1/153-169-211-284855, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+JavaScript error: https://www.nike.com.br/Snkrs/Produto/Dunk-High-Infantil-27-33/67-80-445-283593, line 2: TypeError: (intermediate value)() is not a function
+JavaScript error: https://images.lojanike.com.br/site/ni/dist/js/Plugins.js?p=0&v=a10d3b7db37fa50d68fb5c617512c5e7&a=PRODUCAO&nopack, line 1: TypeError: can't access property "sessionInfo", window.nikeDataLayer is undefined
+1604712210659	Marionette	INFO	Stopped listening on port 52485
+[Parent 17944, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

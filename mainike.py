@@ -9,7 +9,7 @@ from selenium.webdriver.firefox.options import Options
 import json
 import datetime
 
-db_conn = mysql.connector.connect(host="localhost", port="3306", user="root", passwd="root", database="snkrs")
+db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
 
 #1 preparar o conteudo html a partir da url
@@ -78,7 +78,7 @@ for i in range(len(hreflist)):
         sql = """insert into site_refer (refer_href, refer_data, refer_preco, refer_cw, refer_modelo) values(%s, %s, %s, %s, %s)""" 
         val = (str(url), datadb, precodb, cwdb, modelodb)
         cursor.execute(sql, val)
-        sql = """insert into Logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 1)"""
+        sql = """insert into logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 1)"""
         val = (str(url), datetimedb)
         cursor.execute(sql, val)
         db_conn.commit()
