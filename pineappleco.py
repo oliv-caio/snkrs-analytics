@@ -14,7 +14,7 @@ cursor = db_conn.cursor()
 
 #1 preparar o conteudo html a partir da url
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
-url = 'https://alfasneakers.com.br/collections/tenis-nike'
+url = 'https://www.shop-pineapple.co/TENIS-nike?pagina=1'
 
 option = Options()
 option.headless = True
@@ -24,30 +24,33 @@ driver.get(url)
 
 time.sleep(15)
 
-site = "https://alfasneakers.com.br/"
+site = "Pineapple Co"
 
 for i in range(13):
-    element = driver.find_element_by_xpath("/html/body/main/div/div/div/div[3]/div/div[@class='product-list product-list--per-row-4 product-list--image-shape-natural']")
+    element = driver.find_element_by_id('listagemProdutos')
+    #element = driver.find_element_by_xpath("//*[@id='listagemProdutos']")
     html_content = element.get_attribute("outerHTML")
     soup = BeautifulSoup(html_content, 'lxml')
     datetimedb = datetime.datetime.now()
     modelolist = []
-    a_modelo = soup.find_all('div', {'class': 'product-block__title'})
+    a_modelo = soup.find_all('a', {'class': 'nome-produto cor-secundaria'})
 
     for a in a_modelo:
         modelo = ''.join(a.findAll(text=True))
         modelolist.append(modelo)
+        print(modelo)
 
     precolist = []
-    a_preco = soup.find_all('span', {'class': 'price'})
+    a_preco = soup.find_all('strong', {'class': 'preco-venda cor-principal '})
 
     for a in a_preco:
-        preco = str(''.join(a.findAll(text=True)).strip())
+        preco = str(''.join(a.findAll(text=True)))
         precolist.append(preco)
+        print(preco)
 
-    for i in range(len(modelolist)):
-        print(modelolist[i])
-        print(precolist[i])
+    #for i in range(len(modelolist)):
+        #print(modelolist[i])
+        #print(precolist[i])
         #sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
         #val = (site, precolist[i], modelolist[i], datetimedb)
         #cursor.execute(sql, val)
@@ -56,8 +59,8 @@ for i in range(13):
         #cursor.execute(sql, val)
         #db_conn.commit()
     
-    driver.find_element_by_xpath("/html/body/main/div/div/div/div[4]/div/a[@class='next']").click()
-    time.sleep(3)
+    driver.find_element_by_xpath("/html/body/div[3]/div[3]/div/div[2]/div[2]/div[3]/div/div/div/ul/li[8]/a").click()
+    time.sleep(5)
 
 driver.quit()
 db_conn.close()
