@@ -12,7 +12,6 @@ import datetime
 db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
 
-#1 preparar o conteudo html a partir da url
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
 url = 'https://www.shop-pineapple.co/TENIS-nike?pagina=1'
 
@@ -22,44 +21,55 @@ driver = webdriver.Firefox(firefox_binary=binary, executable_path='C:\\geckodriv
 
 driver.get(url)
 
-time.sleep(15)
+time.sleep(10)
 
 site = "Pineapple Co"
 
-for i in range(13):
-    element = driver.find_element_by_id('listagemProdutos')
-    #element = driver.find_element_by_xpath("//*[@id='listagemProdutos']")
+for i in range(2,11):
+    nexturl = 'https://www.shop-pineapple.co/TENIS-nike?pagina='+str(i)
+    element = driver.find_element_by_xpath("//*[@id='listagemProdutos']")
     html_content = element.get_attribute("outerHTML")
     soup = BeautifulSoup(html_content, 'lxml')
     datetimedb = datetime.datetime.now()
-    modelolist = []
-    a_modelo = soup.find_all('a', {'class': 'nome-produto cor-secundaria'})
+    urlraiz = driver.current_url
+    a_href = soup.find_all('a', href=True)
+    hreflist = []
+    for a in a_href:
+        href = str(a['href'])
+        hreflist.append(href)
 
-    for a in a_modelo:
-        modelo = ''.join(a.findAll(text=True))
-        modelolist.append(modelo)
-        print(modelo)
+    for i in range(len(hreflist)):
 
-    precolist = []
-    a_preco = soup.find_all('strong', {'class': 'preco-venda cor-principal '})
+        if hreflist[i-1] != hreflist[i]:
 
-    for a in a_preco:
-        preco = str(''.join(a.findAll(text=True)))
-        precolist.append(preco)
-        print(preco)
+            url = hreflist[i-1]
+            driver.get(url)
+            time.sleep(0.2)
+            element = driver.find_element_by_xpath("/html/body/div[3]/div[3]/div/div[1]/div/div[1]/div[2]/div[1]")
+            html_content = element.get_attribute("outerHTML")
+            soup = BeautifulSoup(html_content, 'lxml')
+            a_modelo = soup.find_all('h1', {'class': 'nome-produto titulo cor-secundaria'})
 
-    #for i in range(len(modelolist)):
-        #print(modelolist[i])
-        #print(precolist[i])
-        #sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
-        #val = (site, precolist[i], modelolist[i], datetimedb)
-        #cursor.execute(sql, val)
-        #sql = """insert into logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 0)"""
-        #val = (site, datetimedb)
-        #cursor.execute(sql, val)
-        #db_conn.commit()
-    
-    driver.find_element_by_xpath("/html/body/div[3]/div[3]/div/div[2]/div[2]/div[3]/div/div/div/ul/li[8]/a").click()
+            for a in a_modelo:
+                modelodb = ''.join(a.findAll(text=True))
+                print(modelodb)
+
+            element = driver.find_element_by_xpath("/html/body/div[3]/div[3]/div/div[1]/div/div[1]/div[2]/div[@class='principal']")
+            html_content = element.get_attribute("outerHTML")
+            soup = BeautifulSoup(html_content, 'lxml')
+            preco = soup.find('strong', {'class': 'preco-promocional cor-principal'})
+            precodb = str(''.join(preco.find(text=True)).strip())
+            print(precodb)
+            
+            #sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
+            #val = (site, precodb, modelodb, datetimedb)
+            #cursor.execute(sql, val)
+            #sql = """insert into logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 0)"""
+            #val = (site, datetimedb)
+            #cursor.execute(sql, val)
+            #db_conn.commit()
+
+    driver.get(nexturl)
     time.sleep(5)
 
 driver.quit()

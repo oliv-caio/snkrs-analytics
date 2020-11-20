@@ -24,7 +24,7 @@ driver.get(url)
 
 time.sleep(15)
 
-site = "https://alfasneakers.com.br/"
+site = "Alfa Sneakers"
 
 for i in range(13):
     element = driver.find_element_by_xpath("/html/body/main/div/div/div/div[3]/div/div[@class='product-list product-list--per-row-4 product-list--image-shape-natural']")
@@ -46,8 +46,8 @@ for i in range(13):
         precolist.append(preco)
 
     for i in range(len(modelolist)):
-        print(modelolist[i])
-        print(precolist[i])
+        #print(modelolist[i])
+        #print(precolist[i])
         #sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
         #val = (site, precolist[i], modelolist[i], datetimedb)
         #cursor.execute(sql, val)

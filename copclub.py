@@ -12,7 +12,6 @@ import datetime
 db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
 
-#1 preparar o conteudo html a partir da url
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
 url = 'https://www.copclub.com.br/marca/nike.html'
 
@@ -40,7 +39,9 @@ for a in a_href:
     hreflist.append(href)
 
 for i in range(len(hreflist)):
+
     if hreflist[i-1] != hreflist[i] :
+        
         url = hreflist[i-1]
         driver.get(url)
         time.sleep(1)
@@ -67,5 +68,6 @@ for i in range(len(hreflist)):
         val = (site, datetimedb)
         cursor.execute(sql, val)
         db_conn.commit()
+
 driver.quit()
 db_conn.close()
