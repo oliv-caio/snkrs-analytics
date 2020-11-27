@@ -34,6 +34,7 @@ for i in range(2,11):
     urlraiz = driver.current_url
     a_href = soup.find_all('a', href=True)
     hreflist = []
+    
     for a in a_href:
         href = str(a['href'])
         hreflist.append(href)
@@ -61,13 +62,13 @@ for i in range(2,11):
             precodb = str(''.join(preco.find(text=True)).strip())
             print(precodb)
             
-            #sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
-            #val = (site, precodb, modelodb, datetimedb)
-            #cursor.execute(sql, val)
-            #sql = """insert into logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 0)"""
-            #val = (site, datetimedb)
-            #cursor.execute(sql, val)
-            #db_conn.commit()
+            sql = """insert into site_reven (reven_html, reven_preco, reven_modelo, reven_data) values(%s, %s, %s, %s)""" 
+            val = (site, precodb, modelodb, datetimedb)
+            cursor.execute(sql, val)
+            sql = """insert into logs(html_logs, data_hora_logs, tipo_site) values(%s, %s, 0)"""
+            val = (site, datetimedb)
+            cursor.execute(sql, val)
+            db_conn.commit()
 
     driver.get(nexturl)
     time.sleep(5)

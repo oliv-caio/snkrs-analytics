@@ -12,7 +12,7 @@ import datetime
 db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
 
-#1 preparar o conteudo html a partir da url
+
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
 url = 'https://www.nike.com.br/Snkrs#calendario'
 
@@ -22,7 +22,7 @@ driver = webdriver.Firefox(firefox_binary=binary, executable_path='C:\\geckodriv
 
 driver.get(url)
 
-time.sleep(15)
+time.sleep(9)
 
 element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
 html_content = element.get_attribute("outerHTML")
