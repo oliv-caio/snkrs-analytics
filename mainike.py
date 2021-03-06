@@ -8,6 +8,7 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.firefox.options import Options
 import json
 import datetime
+from selenium.common.exceptions import NoSuchElementException
 
 db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root", passwd="root", database="snkrs")
 cursor = db_conn.cursor()
@@ -22,12 +23,16 @@ driver = webdriver.Firefox(firefox_binary=binary, executable_path='C:\\geckodriv
 
 driver.get(url)
 
+#time.sleep(9)
+driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+time.sleep(3)
+driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 time.sleep(9)
 
-element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
+#element = driver.find_element_by_xpath("/html/body/main/div/div[3]/section/div/div/div/div[@class='box-resultados vitrine-content--feed grid-produtos grid-produtos--3-col snkr-container']")
+element = driver.find_element_by_xpath("//*[@id='DadosPaginacaoCalendario']")
 html_content = element.get_attribute("outerHTML")
 soup = BeautifulSoup(html_content, 'lxml')
-
 a_href = soup.find_all('a', href=True)
 
 hreflist = []
@@ -36,13 +41,14 @@ for a in a_href:
     href = str(a['href'])
     hreflist.append(href)
 
+
 for i in range(len(hreflist)):
     if hreflist[i-1] != hreflist[i] :
         url = hreflist[i-1]
         datetimedb = datetime.datetime.now()
         print(url)
         driver.get(url)
-        time.sleep(3)
+        time.sleep(1.2)
         element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/div[@class='nome-preco-produto']")
         html_content = element.get_attribute("outerHTML")
         soup = BeautifulSoup(html_content, 'lxml') 
@@ -66,15 +72,17 @@ for i in range(len(hreflist)):
             print (''.join(node.findAll(text=True)))
             precodb = str(node.findAll(text=True))
 
-        element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/h3")
-        html_content = element.get_attribute("outerHTML")
-        soup = BeautifulSoup(html_content, 'lxml') 
-        data = soup.find_all('h3')
-
-        for node in data:
-            print (''.join(node.findAll(text=True)))
-            datadb = str(node.findAll(text=True))
-
+        try:
+            element = driver.find_element_by_xpath("/html/body/main/div/div[1]/div[3]/div/div[2]/h3")
+            html_content = element.get_attribute("outerHTML")
+            soup = BeautifulSoup(html_content, 'lxml') 
+            data = soup.find_all('h3')
+            for node in data:
+                print (''.join(node.findAll(text=True)))
+                datadb = str(node.findAll(text=True))
+        except NoSuchElementException:
+            print('data não encontrado.')
+            
         sql = """insert into site_refer (refer_href, refer_data, refer_preco, refer_cw, refer_modelo) values(%s, %s, %s, %s, %s)""" 
         val = (str(url), datadb, precodb, cwdb, modelodb)
         cursor.execute(sql, val)

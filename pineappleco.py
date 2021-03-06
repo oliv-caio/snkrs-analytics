@@ -25,7 +25,7 @@ time.sleep(10)
 
 site = "Pineapple Co"
 
-for i in range(2,11):
+for i in range(2,15):
     nexturl = 'https://www.shop-pineapple.co/TENIS-nike?pagina='+str(i)
     element = driver.find_element_by_xpath("//*[@id='listagemProdutos']")
     html_content = element.get_attribute("outerHTML")

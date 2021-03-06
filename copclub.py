@@ -13,7 +13,7 @@ db_conn = mysql.connector.connect(host="129.213.131.233", port="600", user="root
 cursor = db_conn.cursor()
 
 binary = FirefoxBinary('C:\\Program Files\\Firefox Developer Edition\\firefox.exe')
-url = 'https://www.copclub.com.br/marca/nike.html'
+url = 'https://www.copclub.com.br/marca/nike.html?pagina=2'
 
 option = Options()
 option.headless = True

@@ -25,7 +25,7 @@ time.sleep(6)
 
 site = "Alfa Sneakers"
 
-for i in range(13):
+for i in range(24):
     element = driver.find_element_by_xpath("/html/body/main/div/div/div/div[3]/div/div[@class='product-list product-list--per-row-4 product-list--image-shape-natural']")
     html_content = element.get_attribute("outerHTML")
     soup = BeautifulSoup(html_content, 'lxml')
